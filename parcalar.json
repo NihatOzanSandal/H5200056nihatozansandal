@@ -3,7 +3,6 @@
 		"ParcaTuru": "Modifiye",
 		"ResimURL": "https://raw.githubusercontent.com/NihatOzanSandal/H5200056nihatozansandal/main/turbo.jpg",
 		"ParcaIslevi": "Motora güç kazandırma"
-		"CalismaPrensibi":"<p>Motorun normal haliyle emebildiğinden daha fazla havayı emmesini sağlayan turbo, bunu yüksek basınçlı silindirlere göndererek aracın daha fazla hava ve basınç ile temasını, bu sayede de motorun daha güçlü çalışmasını sağlıyor.</p>"
 	},
 
 	{
@@ -11,7 +10,6 @@
 		"ParcaTuru": "Modifiye",
 		"ResimURL": "https://raw.githubusercontent.com/NihatOzanSandal/H5200056nihatozansandal/main/superCharger.jpg",
 		"ParcaIslevi":"Motora güç kazandırma"
-		"CalismaPrensibi":"<p>Motordan daha fazla güç alabilmek için kullanılan bir cihazdır. Supercharger mekanik olarak motorun ona vermiş olduğu etkiler sayesinde çalışır. ... Aynı turbolar da olduğu gibi bir superchargerlar da, motora basılan havanın basıncını ve havanın yoğunluğunu artırılarak güç üretilir.</p>"
 	},
 
 	{
@@ -19,27 +17,23 @@
 		"ParcaTuru": "Zorunlu",
 		"ResimURL": "https://raw.githubusercontent.com/NihatOzanSandal/H5200056nihatozansandal/main/frenDiski.jpg",
 		"ParcaIslevi":"Aracın durmasını sağlama" 
-		"CalismaPrensibi":"<p>Disk fren sisteminde aksa bağlanan ve genellikle tekerleği göbeğe sabitleyen pabuçların üzerinde yer alan parçanın her iki yüzeyi de düz bir plaka şekline sahip. Frenlemede oldukça önemli bir rol üstlenen fren diski, balatalar tarafından sıkıştırıldığı ölçüde aracın yavaşlamasını sağlıyor.</p>"
 	},
 	{
 		"ParcaAdi": "Egzoz",
 		"ParcaTuru": "Zorunlu",
 		"ResimURL": "https://raw.githubusercontent.com/NihatOzanSandal/H5200056nihatozansandal/main/egzozUcu.jpg",
 		"ParcaIslevi":"Yanan yakıtı dışarı çıkarma"
-		"CalismaPrensibi": "<p>İçten yanmalı motorlarda patlayan hava yakıt karışımının bıraktığı gazın motor dışına ses ve duman olarak atılmasını sağlayan parçaya egzoz adı verilmektedir. Egzozun temel özelliği borularla taşınan sesi, egzoz içerisinde cam ve elyaf gibi malzemelerle soğurulup gürültüyü en aza indirerek dışarıya bırakmasıdır.</p>"
 	},
 	{
 		"ParcaAdi": "Balata",
 		"ParcaTuru": "Zorunlu",
 		"ResimURL": "https://raw.githubusercontent.com/NihatOzanSandal/H5200056nihatozansandal/main/balata.jpg",
 		"ParcaIslevi":"Aracın durmasını sağlama"
-		"CalismaPrensibi":"<p>Fren balataları, disklerin sıkışmasını ve aracın yavaşlamasını ya da durmasını sağlayan parçalardır.</p>"
 	},
 	{
 		"ParcaAdi": "Spacer",
 		"ParcaTuru": "Modifiye",
 		"ResimURL": "https://raw.githubusercontent.com/NihatOzanSandal/H5200056nihatozansandal/main/spacer.jpg",
 		"ParcaIslevi":"Tekerleri daha dışarı çıkarma"
-		"CalismaPrensibi":"<p>Spacer, bir diger adiyla flans, aracin jant ve poryasi arasinda kullanilan, aracin iz mesafesini (aks mesafesini) arttirmak amaciyla kullanilan bir üründür. ... Daha sonra üstüne uzun bijonlar yardimiyla jant montaji yapilir. Jant ile porya mesafesi arttigindan dolayi uzun bijon kullanilmasi gerekmektedir.</p>"
 	}
 ]
