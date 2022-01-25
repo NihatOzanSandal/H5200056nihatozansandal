@@ -22,7 +22,7 @@
 		"CalismaPrensibi":"<p>Disk fren sisteminde aksa bağlanan ve genellikle tekerleği göbeğe sabitleyen pabuçların üzerinde yer alan parçanın her iki yüzeyi de düz bir plaka şekline sahip. Frenlemede oldukça önemli bir rol üstlenen fren diski, balatalar tarafından sıkıştırıldığı ölçüde aracın yavaşlamasını sağlıyor.</p>"
 	},
 	{
-		"ParcaAdi": "Egzoz Ucu",
+		"ParcaAdi": "Egzoz",
 		"ParcaTuru": "Zorunlu",
 		"ResimURL": "https://raw.githubusercontent.com/NihatOzanSandal/H5200056nihatozansandal/main/egzozUcu.jpg",
 		"ParcaIslevi":"Yanan yakıtı dışarı çıkarma",
